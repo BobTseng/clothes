@@ -468,6 +468,8 @@ section{
     justify-content: center;
     align-items: center;
     border: 2px solid whitesmoke;
+
+    cursor: pointer;
 }
 
 .post .box-container .row form .btn3:hover{
